@@ -2,7 +2,7 @@
 python Library-Management-System - book Management and issue system - 
 
 
-login page             |  book management
+landing page             |  products management
 :-------------------------:|:-------------------------:
 ![LMS](screenPages/Capture.PNG)  |  ![LMS](screenPages/Capture2.PNG)
 
